@@ -1,0 +1,32 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-form {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+}
+
+.login-title {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.navbar {
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  margin: 0 10px;
+}
